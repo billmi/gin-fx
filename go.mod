@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/gin-gonic/gin v1.8.1
-	github.com/google/wire v0.5.0
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	go.uber.org/fx v1.18.2
 	go.uber.org/zap v1.23.0
