@@ -1,1 +1,1 @@
-base uber-go/fx 
+base uber-go/fx used gin
