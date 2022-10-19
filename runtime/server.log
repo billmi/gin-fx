@@ -1,0 +1,63 @@
+2022-10-13T15:58:18.625+0800	INFO	handlers/hello.go:17	测试初始化注入成功 !
+2022-10-13T16:13:01.551+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:33:25.565+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:33:26.153+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:39:48.546+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:41:06.565+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:41:08.177+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:41:32.785+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:41:34.196+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:45:28.968+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:45:30.321+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:46:25.909+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:46:27.317+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:46:40.995+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:46:50.470+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:50:04.233+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:50:05.291+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:50:53.055+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T16:50:54.304+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T16:51:39.505+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T17:09:47.389+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T17:09:49.270+0800	INFO	handlers/hello.go:19	测试初始化注入成功 !
+2022-10-13T17:10:59.112+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T17:14:21.376+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T17:15:33.296+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T17:15:34.749+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T17:15:41.195+0800	INFO	handlers/hello.go:19	测试初始化注入成功 !
+2022-10-13T17:17:15.380+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T17:22:14.971+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T17:22:35.072+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T17:23:16.502+0800	INFO	serverfx/serverfx.go:56	Start HttpServer :8080
+2022-10-13T17:23:21.685+0800	INFO	handlers/hello.go:19	测试初始化注入成功 !
+2022-10-13T17:32:54.436+0800	INFO	serverfx/serverfx.go:61	OnStop Called
+2022-10-13T17:32:55.963+0800	INFO	serverfx/serverfx.go:46	Start HttpServer :8080
+2022-10-13T17:32:59.434+0800	INFO	handlers/hello.go:19	测试初始化注入成功 !
+2022-10-13T17:33:37.332+0800	INFO	serverfx/serverfx.go:51	OnStop Called
+2022-10-13T17:33:38.651+0800	INFO	serverfx/serverfx.go:46	Start HttpServer :8080
+2022-10-13T17:33:42.053+0800	INFO	serverfx/serverfx.go:51	OnStop Called
+2022-10-13T17:33:53.680+0800	INFO	serverfx/serverfx.go:46	Start HttpServer :8080
+2022-10-13T17:33:56.852+0800	INFO	handlers/hello.go:19	测试初始化注入成功 !
+2022-10-13T17:34:01.777+0800	INFO	serverfx/serverfx.go:51	OnStop Called
+2022-10-13T17:34:08.767+0800	INFO	serverfx/serverfx.go:46	Start HttpServer :8080
+2022-10-13T17:35:12.115+0800	INFO	serverfx/serverfx.go:51	OnStop Called
+2022-10-13T17:35:21.551+0800	INFO	serverfx/serverfx.go:46	Start HttpServer :8080
+2022-10-13T17:35:24.510+0800	INFO	handlers/hello.go:19	测试初始化注入成功 !
+2022-10-13T17:39:46.674+0800	INFO	serverfx/serverfx.go:51	OnStop Called
+2022-10-13T17:42:04.867+0800	INFO	serverfx/serverfx.go:46	Start HttpServer :8080
+2022-10-13T17:42:07.388+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:42:14.330+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:42:36.337+0800	INFO	serverfx/serverfx.go:51	OnStop Called
+2022-10-13T17:42:37.638+0800	INFO	serverfx/serverfx.go:46	Start HttpServer :8080
+2022-10-13T17:42:39.922+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:42:43.577+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:42:45.317+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:42:45.870+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:42:46.344+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:42:46.778+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:42:53.054+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:43:22.370+0800	INFO	serverfx/serverfx.go:51	OnStop Called
+2022-10-13T17:43:23.744+0800	INFO	serverfx/serverfx.go:46	Start HttpServer :8080
+2022-10-13T17:43:26.661+0800	INFO	handlers/hello1.go:16	测试初始化注入成功 !
+2022-10-13T17:43:30.841+0800	INFO	handlers/hello.go:19	信息测试 !
+2022-10-13T17:47:04.588+0800	INFO	serverfx/serverfx.go:51	OnStop Called
